@@ -4,7 +4,7 @@
 <ul>
   <li><a href="#Objective">Objective</a></li>
   <li><a href="#DatabaseSchema">Database Schema</a></li>
-  <li><a href="#LevelofQuery">Level of Query</a></li>
+  <li><a href="#LevelofQuery">Level of Query(EASY, MODERATE, ADVANCED)</a></li>
 </ul>
 
 <h1><a name="Objective">Objective</a></h1>

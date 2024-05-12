@@ -6,3 +6,9 @@
   <li><a href="#problemstatement">Database Schema</a></li>
   <li><a href="#entityrelationshipdiagram">Level of Query</a></li>
 </ul>
+
+<h1><a name="Objective">Objective</a></h1>
+<p>
+  -The Project aims to Analyze a digital music store database using SQL, providing stakeholders with valuable insights for decision making.
+  -
+</p>

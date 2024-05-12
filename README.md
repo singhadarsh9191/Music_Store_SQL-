@@ -22,8 +22,8 @@
 <h1><a name="LevelofQuery">Level of Query</a></h1>
 <p>
   
-  - Easy: Includes Select, Group by, Order by, Limit, Asc/Desc.
-  - Moderate: Includes Joins, Order by, Group by, Limits.
+  - Easy (Music Store 1): Includes Select, Group by, Order by, Limit, Asc/Desc.
+  - Moderate (Music Store 2): Includes Joins, Order by, Group by, Limits.
   - Advance: Includes CTE(Common Table Expression) 
 </p>
 

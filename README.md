@@ -9,5 +9,8 @@
 
 <h1><a name="Objective">Objective</a></h1>
 <p>
+  
   - The Project aims to Analyze a digital music store database using SQL, providing stakeholders with valuable insights for decision making.
-  -</p>
+  - Through SQL queries, it addresses questions regarding geographical growth, purchase power, revenue, genre performance and music band popularity.
+  - The analysis offers actionable recommendation to drive business growth and optimize performance. 
+</p>
